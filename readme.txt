@@ -1,1 +1,1 @@
-This is just a practice file for the git-it exercise using git-it which is a program that has a CLI (meaning command line interface). Command-Line-Interface means that a user through the terminal can interact with the software directly.
+This is just a practice file for the git-it exercise using git-it which is a program that has a CLI (meaning command line interface). Command-Line-Interface means that a user through the terminal can interact with the software directly. Adding another line to this git file.
